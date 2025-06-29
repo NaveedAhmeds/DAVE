@@ -32,7 +32,7 @@ No internet? No problem. Everything runs locally — your files stay safe, your 
 
 ### 📦 Step 1: Clone the Repository
 
-`git clone https://github.com/YOUR_USERNAME_HERE/DAVE-File-Converter.git`
+`git clone https://github.com/NaveedAhmeds/DAVE-File-Converter.git`
 `d DAVE-File-Converter`
 
 ### 🧰 Step 2: Install Dependencies
