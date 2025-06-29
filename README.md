@@ -119,3 +119,7 @@ Because online converters are:
 Crafted with questionable sleep schedules and maximum love by  
 **Naveed**  
 Have feedback, bug reports, or compliments? [Open an issue](https://github.com/naveedahmeds/DAVE-File-Converter/issues) and D.A.V.E. shall answer.
+
+or just reach out to me at my mail: syednaveed2006@gmail.com
+
+See ya later loser..!
