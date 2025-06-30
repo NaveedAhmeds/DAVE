@@ -1,4 +1,5 @@
 pdf2docx
+docx2pdf
 python-docx
 reportlab
 pytk
